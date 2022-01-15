@@ -17,3 +17,9 @@ Tras esto podrás ver el "tablero".
 En la parte izquierda de la pantalla veras las palabras a encontrar y cuales son.
 
 ![encontrar](https://github.com/javmoreno-developer/souply/blob/main/imagenes%20readme/words.png)
+
+## Version en movil
+
+![dificultad](https://github.com/javmoreno-developer/souply/blob/main/imagenes%20readme/movil1.png)
+
+![dificultad](https://github.com/javmoreno-developer/souply/blob/main/imagenes%20readme/movil2.png)
