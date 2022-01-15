@@ -6,6 +6,14 @@ Este proyecto consta de un pantalla principal en la que podras elegir la dificul
 
 ![dificultad](https://github.com/javmoreno-developer/souply/blob/main/imagenes%20readme/main.png)
 
-Tras elegir la dificultad y acceder a la app podrás ver el "tablero".
+Tras elegir la dificultad y acceder a la app verás la cantidad de intentos
+
+![trys](https://github.com/javmoreno-developer/souply/blob/main/imagenes%20readme/trys.png)
+
+Tras esto podrás ver el "tablero".
 
 ![main](https://github.com/javmoreno-developer/souply/blob/main/imagenes%20readme/sopa.png)
+
+En la parte izquierda de la pantalla veras las palabras a encontrar y cuales son.
+
+![encontrar](https://github.com/javmoreno-developer/souply/blob/main/imagenes%20readme/words.png)
